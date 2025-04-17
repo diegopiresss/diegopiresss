@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @diegopiresss
-- 🌱 I’m currently learning about machine learning
-- 📫 Linkedin: Diego Pires Silva
+- 🌱 I’m currently learning about machine learning and data science
 - ⚡ Fun fact: My hobby is study about coffee
 
 
